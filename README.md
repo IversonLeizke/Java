@@ -9,4 +9,5 @@
 3. Service - Including classes in packages
 4. Temperatures - Converting Celsius to Fahrenheit and Kevin
 5. Date - Stores day, month and year values separately and shows the full date
-6. Attributes -Working with attributes
+6. Attributes - Working with attributes
+7. Encapsulation - Using "private" to not allow the others classes to see a class data
