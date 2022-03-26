@@ -9,4 +9,4 @@
 3. Service - Including classes in packages
 4. Temperatures - Converting Celsius to Fahrenheit and Kevin
 5. Date - Stores day, month and year values separately and shows the full date
-6. Atributes -Working with atributes
+6. Attributes -Working with attributes
