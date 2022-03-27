@@ -11,3 +11,5 @@
 5. Date - Stores day, month and year values separately and shows the full date
 6. Attributes - Working with attributes
 7. Encapsulation - Using "private" to not allow the others classes to see a class data
+8. DadosDoTempo - Correcting classes to make the program work
+9. VideoLocadora - Working with arrayList class
