@@ -13,3 +13,5 @@
 7. Encapsulation - Using "private" to not allow the others classes to see a class data
 8. DadosDoTempo - Correcting classes to make the program work
 9. VideoLocadora - Working with arrayList class
+10. Area calculation - working with overloading method
+11. Vehecles objects - inheritance
