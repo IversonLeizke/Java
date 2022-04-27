@@ -15,3 +15,5 @@
 9. VideoLocadora - Working with arrayList class
 10. Area calculation - working with overloading method
 11. Vehecles objects - inheritance
+12. Construtor - Adding a constructos to a class
+13. Markup - working with Final attributes and methods
